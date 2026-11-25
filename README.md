@@ -1,4 +1,3 @@
-# First-Project
 # Number Guessing Game
 A simple command-line game built with Python. The computer picks a secret number, and you keep guessing until you get it right.
 
